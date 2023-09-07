@@ -1,0 +1,17 @@
+EXAMPLE
+¢x  Makefiile
+¢x  
+¢u¢wdefine
+¢x      define.v
+¢x      
+¢u¢wgolden
+¢u¢wsoftware
+¢u¢wspy
+¢x      spy.tcl
+¢x      
+¢u¢wsrc
+¢u¢wsyn
+¢x      .synopsys_dc.setup
+¢x      syn.tcl
+¢x      
+¢|¢wtb
